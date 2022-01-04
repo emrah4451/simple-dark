@@ -1,3 +1,13 @@
+This theme makes all the panels in the game dark and simple.
+
+
+
+Better Bars.
+Better Shield.
+Dark title, menu, buttons, and panels.
+Metro syle.
+Dark Mojang loading menu (optifine)
+Hardcore heard icons.
 
 <p align="center">
   
